@@ -1,6 +1,6 @@
 # ProjectWork-SecondoAnno
 
-![](https://github.com/alesluca00/PW2021/tree/main/img/logo_small.PNG)
+![](https://raw.githubusercontent.com/alesluca00/PW2021/main/img/logo_small.png?token=AJO3RCUACGVLJQBB3JFIJA3BDEQI4)
 
 # Indice
 
