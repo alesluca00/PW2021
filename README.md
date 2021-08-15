@@ -47,25 +47,19 @@ npm install @syncfusion/ej2-angular-schedule --save
 
 # Calendario
 
-![](https://github.com/alesluca00/PW2021/tree/main/img/calendar.png)
+![](https://github.com/alesluca00/PW2021/blob/main/img/calendar.PNG?raw=true)
 
 </br>
 
 # Popup per aggiungere lezioni
 
-![](https://github.com/alesluca00/PW2021/tree/main/img/add_lesson.png)
-
-</br>
-
-# Popup per modificare lezioni
-
-![](https://github.com/alesluca00/PW2021/tree/main/img/edit_lesson.png)
+![](https://github.com/alesluca00/PW2021/blob/main/img/add_lesson.PNG?raw=true)
 
 </br>
 
 # Diagramma ER 
 
-![](https://github.com/alesluca00/PW2021/tree/main/img/database_ER_diagram.png)
+![](https://github.com/alesluca00/PW2021/blob/main/img/database_ER_diagram.PNG?raw=true)
 
 </br>
 
