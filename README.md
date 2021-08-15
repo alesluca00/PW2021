@@ -1,6 +1,6 @@
 # ProjectWork-SecondoAnno
 
-![](https://github.com/colinalessia/ProjectWork-SecondoAnno/blob/main/img/logo_small.png)
+![](https://github.com/alesluca00/PW2021/tree/main/img/logo_small.png)
 
 # Indice
 
@@ -47,25 +47,25 @@ npm install @syncfusion/ej2-angular-schedule --save
 
 # Calendario
 
-![]()
+![](https://github.com/alesluca00/PW2021/tree/main/img/calendar.png)
 
 </br>
 
 # Popup per aggiungere lezioni
 
-![]()
+![](https://github.com/alesluca00/PW2021/tree/main/img/add_lesson.png)
 
 </br>
 
 # Popup per modificare lezioni
 
-![]()
+![](https://github.com/alesluca00/PW2021/tree/main/img/edit_lesson.png)
 
 </br>
 
 # Diagramma ER 
 
-![]()
+![](https://github.com/alesluca00/PW2021/tree/main/img/database_ER_diagram.png)
 
 </br>
 
