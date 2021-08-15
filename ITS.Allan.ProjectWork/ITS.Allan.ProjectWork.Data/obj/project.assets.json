@@ -1,0 +1,161 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "ITS.Allan.ProjectWork.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "System.ComponentModel.Annotations": "5.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ITS.Allan.ProjectWork.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ITS.Allan.ProjectWork.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ITS.Allan.ProjectWork.Models/1.0.0": {
+      "type": "project",
+      "path": "../ITS.Allan.ProjectWork.Models/ITS.Allan.ProjectWork.Models.csproj",
+      "msbuildProject": "../ITS.Allan.ProjectWork.Models/ITS.Allan.ProjectWork.Models.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "Azure.Messaging.ServiceBus >= 7.2.1",
+      "ITS.Allan.ProjectWork.Models >= 1.0.0",
+      "Microsoft.Azure.Devices >= 1.34.0",
+      "Microsoft.EntityFrameworkCore >= 5.0.6",
+      "Microsoft.Extensions.Configuration >= 5.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\alesl\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\alesl\\Desktop\\ProjectWork-SecondoAnno\\ITS.Allan.ProjectWork\\ITS.Allan.ProjectWork.Data\\ITS.Allan.ProjectWork.Data.csproj",
+      "projectName": "ITS.Allan.ProjectWork.Data",
+      "projectPath": "C:\\Users\\alesl\\Desktop\\ProjectWork-SecondoAnno\\ITS.Allan.ProjectWork\\ITS.Allan.ProjectWork.Data\\ITS.Allan.ProjectWork.Data.csproj",
+      "packagesPath": "C:\\Users\\alesl\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\alesl\\Desktop\\ProjectWork-SecondoAnno\\ITS.Allan.ProjectWork\\ITS.Allan.ProjectWork.Data\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\alesl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "C:\\Users\\alesl\\Desktop\\ProjectWork-SecondoAnno\\ITS.Allan.ProjectWork\\ITS.Allan.ProjectWork.Models\\ITS.Allan.ProjectWork.Models.csproj": {
+              "projectPath": "C:\\Users\\alesl\\Desktop\\ProjectWork-SecondoAnno\\ITS.Allan.ProjectWork\\ITS.Allan.ProjectWork.Models\\ITS.Allan.ProjectWork.Models.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "dependencies": {
+          "Azure.Messaging.ServiceBus": {
+            "target": "Package",
+            "version": "[7.2.1, )"
+          },
+          "Microsoft.Azure.Devices": {
+            "target": "Package",
+            "version": "[1.34.0, )"
+          },
+          "Microsoft.EntityFrameworkCore": {
+            "target": "Package",
+            "version": "[5.0.6, )"
+          },
+          "Microsoft.Extensions.Configuration": {
+            "target": "Package",
+            "version": "[5.0.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Il pacchetto Microsoft.EntityFrameworkCore non è stato trovato. Non esistono pacchetti con questo ID nelle origini: Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.EntityFrameworkCore",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Il pacchetto Microsoft.Azure.Devices non è stato trovato. Non esistono pacchetti con questo ID nelle origini: Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.Azure.Devices",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Il pacchetto Azure.Messaging.ServiceBus non è stato trovato. Non esistono pacchetti con questo ID nelle origini: Microsoft Visual Studio Offline Packages",
+      "libraryId": "Azure.Messaging.ServiceBus",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Il pacchetto Microsoft.Extensions.Configuration non è stato trovato. Non esistono pacchetti con questo ID nelle origini: Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.Extensions.Configuration",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1102",
+      "level": "Error",
+      "message": "Il pacchetto System.ComponentModel.Annotations con versione (>= 5.0.0) non è stato trovato\r\n  - Trovata/e 1 versione/i in Microsoft Visual Studio Offline Packages [ Versione più vicina: 4.0.10 ]",
+      "libraryId": "System.ComponentModel.Annotations",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}

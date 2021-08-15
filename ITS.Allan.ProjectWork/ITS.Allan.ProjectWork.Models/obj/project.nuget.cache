@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "mQUZ5mM1WgZv+LD++dXLMsWSJjXiqp91HuwW2vL1RCcyBIfC6nFrzBhlwMMt+i6DeLI7fx/1ZH1YZnihqHRX9Q==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\alesl\\Desktop\\ProjectWork-SecondoAnno\\ITS.Allan.ProjectWork\\ITS.Allan.ProjectWork.Models\\ITS.Allan.ProjectWork.Models.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1102",
+      "level": "Error",
+      "message": "Il pacchetto System.ComponentModel.Annotations con versione (>= 5.0.0) non è stato trovato\r\n  - Trovata/e 1 versione/i in Microsoft Visual Studio Offline Packages [ Versione più vicina: 4.0.10 ]",
+      "libraryId": "System.ComponentModel.Annotations",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "version": 2,
+  "dgSpecHash": "Bc3FZ0kAXaP8/YK/ypgJ7uHrtHqNxKQetwPcz2FoNrYo3YdQa3e94ghEAOxHMIEpQnzzNicjPXKdec2YVywatw==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\alesl\\Desktop\\ProjectWork-SecondoAnno\\ITS.Allan.ProjectWork\\ITS.Allan.ProjectWork.Infrastructure\\ITS.Allan.ProjectWork.Infrastructure.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Il pacchetto Azure.Messaging.ServiceBus non è stato trovato. Non esistono pacchetti con questo ID nelle origini: Microsoft Visual Studio Offline Packages",
+      "libraryId": "Azure.Messaging.ServiceBus",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Il pacchetto Microsoft.Extensions.Configuration non è stato trovato. Non esistono pacchetti con questo ID nelle origini: Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.Extensions.Configuration",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Il pacchetto MimeKit non è stato trovato. Non esistono pacchetti con questo ID nelle origini: Microsoft Visual Studio Offline Packages",
+      "libraryId": "MimeKit",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Il pacchetto MailKit non è stato trovato. Non esistono pacchetti con questo ID nelle origini: Microsoft Visual Studio Offline Packages",
+      "libraryId": "MailKit",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Il pacchetto Microsoft.EntityFrameworkCore non è stato trovato. Non esistono pacchetti con questo ID nelle origini: Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.EntityFrameworkCore",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Il pacchetto Microsoft.Azure.Devices non è stato trovato. Non esistono pacchetti con questo ID nelle origini: Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.Azure.Devices",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1102",
+      "level": "Error",
+      "message": "Il pacchetto System.ComponentModel.Annotations con versione (>= 5.0.0) non è stato trovato\r\n  - Trovata/e 1 versione/i in Microsoft Visual Studio Offline Packages [ Versione più vicina: 4.0.10 ]",
+      "libraryId": "System.ComponentModel.Annotations",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}
